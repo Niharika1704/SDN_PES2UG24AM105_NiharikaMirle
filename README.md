@@ -1,31 +1,31 @@
 # SDN_PES2UG24AM105_NiharikaMirle
 # 🖧 Host Discovery in SDN using Mininet
 
-## 📌 Project Overview
+Project Overview
 This project demonstrates **Host Discovery in Software Defined Networking (SDN)** using Mininet.  
 The system identifies active hosts in a virtual network and displays their IP addresses.
 
 ---
 
-## 🎯 Objective
+Objective
 - To simulate a network using Mininet  
 - To detect active hosts in the network  
 - To display host information using Python  
 
 ---
 
-## 🧠 What is SDN?
+What is SDN?
 Software Defined Networking (SDN) is a networking approach where the control plane is separated from the data plane and managed centrally using software.
 
 ---
 
-## 🏗️ Topology
+Topology
 - 1 Switch → `s1`
 - 2 Hosts → `h1`, `h2`
 
 ---
 
-## ⚙️ Technologies Used
+Technologies Used
 - Mininet (Network Emulator)
 - Python
 - Open vSwitch
@@ -33,7 +33,7 @@ Software Defined Networking (SDN) is a networking approach where the control pla
 
 ---
 
-## 🚀 How It Works
+How It Works
 1. A network is created using Mininet  
 2. Hosts communicate using ping  
 3. Active hosts are identified  
@@ -41,7 +41,7 @@ Software Defined Networking (SDN) is a networking approach where the control pla
 
 ---
 
-## 💻 Installation & Setup
+Installation & Setup
 
 ### Step 1: Install Mininet
 ```bash
