@@ -48,6 +48,3 @@ Installation & Setup
 sudo apt update
 sudo apt install mininet -y
 
-Conclusion
-
-This project demonstrates basic host discovery in an SDN environment using Mininet. A simple topology was created, and active hosts were identified and displayed using a Python script. It provides a foundational understanding of SDN concepts and can be extended for more advanced features.
