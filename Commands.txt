@@ -1,0 +1,6 @@
+sudo apt update
+sudo apt install mininet -y
+sudo mn
+h1 ping -c 3 h2
+cd ~/host_discovery
+sudo mn -c
